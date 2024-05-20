@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/hans/betterlockscreen'
+let g:netrw_dirhist_4='/home/hans/configuration'
+let g:netrw_dirhist_3='/home/hans/.config/polybar/blocks'
+let g:netrw_dirhist_2='/home/hans/.config/rofi/launchers'
+let g:netrw_dirhist_1='/home/hans/.config/polybar'

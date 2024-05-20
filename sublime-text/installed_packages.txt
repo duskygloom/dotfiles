@@ -1,0 +1,8 @@
+Material Pro
+Sublime LSP
+Sublime linter
+Terminus
+Sidebar enhancement
+Sublime code intel
+Easy clang complete
+
